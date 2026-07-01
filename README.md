@@ -2,7 +2,7 @@
 
 -----
 <p align="center">
-<b>WanGP by DeepBeepMeep : The best Open Source Generative Models Accessible to the GPU Poor</b>
+<b>WanGP by Ebad Malik : The best Open Source Generative Models Accessible to the GPU Poor</b>
 </p>
 
 WanGP is a one-stop super app for the best open source generative models across video, image, audio, and text-to-speech.
@@ -43,7 +43,7 @@ WanGP is a one-stop super app for the best open source generative models across 
 
 **Discord Server to get Help from the WanGP Community and show your Best Gens:** https://discord.gg/g7efUW9jGV
 
-**Follow DeepBeepMeep on Twitter/X to get the Latest News**: https://x.com/deepbeepmeep
+**Follow Ebad Malik on Twitter/X to get the Latest News**: https://x.com/Ebad Malik
 
 ## 📋 Table of Contents
 
@@ -429,7 +429,7 @@ It is recommended to use in Pinokio the Community Scripts *wan2gp* or *wan2gp-am
 ### Manual installation: (for RTX20xx - RTX50xx)
 
 ```bash
-git clone https://github.com/deepbeepmeep/Wan2GP.git
+git clone https://github.com/Ebad Malik/Wan2GP.git
 cd Wan2GP
 conda create -n wan2gp python=3.11.14
 conda activate wan2gp
@@ -440,7 +440,7 @@ pip install -r requirements.txt
 ### Manual installation: (for GTX 10xx)
 
 ```bash
-git clone https://github.com/deepbeepmeep/Wan2GP.git
+git clone https://github.com/Ebad Malik/Wan2GP.git
 cd Wan2GP
 conda create -n wan2gp python=3.10.9
 conda activate wan2gp
@@ -568,15 +568,15 @@ https://www.youtube.com/watch?v=T5jNiEhf9xk
 ## 🔗 Related Projects
 
 ### Other Models for the GPU Poor
-- **[HuanyuanVideoGP](https://github.com/deepbeepmeep/HunyuanVideoGP)** - One of the best open source Text to Video generators
-- **[Hunyuan3D-2GP](https://github.com/deepbeepmeep/Hunyuan3D-2GP)** - Image to 3D and text to 3D tool
-- **[FluxFillGP](https://github.com/deepbeepmeep/FluxFillGP)** - Inpainting/outpainting tools based on Flux
-- **[Cosmos1GP](https://github.com/deepbeepmeep/Cosmos1GP)** - Text to world generator and image/video to world
-- **[OminiControlGP](https://github.com/deepbeepmeep/OminiControlGP)** - Flux-derived application for object transfer
-- **[YuE GP](https://github.com/deepbeepmeep/YuEGP)** - Song generator with instruments and singer's voice
+- **[HuanyuanVideoGP](https://github.com/Ebad Malik/HunyuanVideoGP)** - One of the best open source Text to Video generators
+- **[Hunyuan3D-2GP](https://github.com/Ebad Malik/Hunyuan3D-2GP)** - Image to 3D and text to 3D tool
+- **[FluxFillGP](https://github.com/Ebad Malik/FluxFillGP)** - Inpainting/outpainting tools based on Flux
+- **[Cosmos1GP](https://github.com/Ebad Malik/Cosmos1GP)** - Text to world generator and image/video to world
+- **[OminiControlGP](https://github.com/Ebad Malik/OminiControlGP)** - Flux-derived application for object transfer
+- **[YuE GP](https://github.com/Ebad Malik/YuEGP)** - Song generator with instruments and singer's voice
 
 ---
 
 <p align="center">
-Made with ❤️ by DeepBeepMeep
+Made with ❤️ by Ebad Malik
 </p>
